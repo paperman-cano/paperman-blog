@@ -9,12 +9,12 @@ categories: ["Demos"]
 
 ## Twiiter
 
-<!-- {{< tweet 877500564405444608 >}} -->
+
 
 
 ## Google Map
 
-<!-- {{< googlemaps id="17_6iCOL6LkRjIFGPKmXBxjsvbBc" height="400">}} -->
+
 
 
 ## Figure
