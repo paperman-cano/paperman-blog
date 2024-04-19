@@ -52,7 +52,7 @@ filename = "sitemap.xml"
 # ------------------------------------- #
 
 [params]
-since = "2013"        # Site creation time
+since = "1990"        # Site creation time
 rssFullContent = true # set true to use full content instead of summary
 
 # site info (optional)
