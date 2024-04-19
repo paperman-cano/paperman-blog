@@ -1,123 +1,225 @@
-<?xml-stylesheet type="text/xsl" href="https://www.zjyclub.top/sitemap.xsl"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://www.zjyclub.top/en/about/</loc>
     <lastmod>2017-08-28T21:41:52+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-tw"
+                href="https://www.zjyclub.top/zh-tw/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.zjyclub.top/en/about/"
+                />
+  </url><url>
     <loc>https://www.zjyclub.top/en/categories/</loc>
     <lastmod>2018-03-07T16:01:23+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-tw"
+                href="https://www.zjyclub.top/zh-tw/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://www.zjyclub.top/zh/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.zjyclub.top/en/categories/"
+                />
+  </url><url>
     <loc>https://www.zjyclub.top/en/2018/03/06/den-theme-preview/</loc>
     <lastmod>2018-03-07T16:01:23+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.zjyclub.top/en/category/notes/</loc>
     <lastmod>2018-03-07T16:01:23+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-tw"
+                href="https://www.zjyclub.top/zh-tw/category/notes/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.zjyclub.top/en/category/notes/"
+                />
+  </url><url>
     <loc>https://www.zjyclub.top/en/</loc>
     <lastmod>2018-03-07T16:01:23+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-tw"
+                href="https://www.zjyclub.top/zh-tw/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://www.zjyclub.top/zh/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.zjyclub.top/en/"
+                />
+  </url><url>
     <loc>https://www.zjyclub.top/en/posts/</loc>
     <lastmod>2018-03-07T16:01:23+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-tw"
+                href="https://www.zjyclub.top/zh-tw/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.zjyclub.top/en/posts/"
+                />
+  </url><url>
     <loc>https://www.zjyclub.top/en/tag/preview/</loc>
     <lastmod>2018-03-07T16:01:23+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.zjyclub.top/en/tag/shortcodes/</loc>
     <lastmod>2018-03-07T16:01:23+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.zjyclub.top/en/tags/</loc>
     <lastmod>2018-03-07T16:01:23+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-tw"
+                href="https://www.zjyclub.top/zh-tw/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://www.zjyclub.top/zh/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.zjyclub.top/en/tags/"
+                />
+  </url><url>
     <loc>https://www.zjyclub.top/en/tag/tutorial/</loc>
     <lastmod>2018-03-07T16:01:23+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.zjyclub.top/en/category/demos/</loc>
     <lastmod>2018-03-05T16:01:23+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-tw"
+                href="https://www.zjyclub.top/zh-tw/category/demos/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.zjyclub.top/en/category/demos/"
+                />
+  </url><url>
     <loc>https://www.zjyclub.top/en/2018/03/05/header-image/</loc>
     <lastmod>2018-03-05T16:01:23+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-tw"
+                href="https://www.zjyclub.top/zh-tw/2018/03/05/%E6%A8%99%E9%A0%AD%E5%9C%96%E7%89%87/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.zjyclub.top/en/2018/03/05/header-image/"
+                />
+  </url><url>
     <loc>https://www.zjyclub.top/en/tag/images/</loc>
     <lastmod>2018-03-05T16:01:23+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-tw"
+                href="https://www.zjyclub.top/zh-tw/tag/images/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.zjyclub.top/en/tag/images/"
+                />
+  </url><url>
     <loc>https://www.zjyclub.top/en/2018/03/04/note-2/</loc>
     <lastmod>2018-03-04T16:01:23+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-tw"
+                href="https://www.zjyclub.top/zh-tw/2018/03/04/%E7%AD%86%E8%A8%98-2/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.zjyclub.top/en/2018/03/04/note-2/"
+                />
+  </url><url>
     <loc>https://www.zjyclub.top/en/tag/notes/</loc>
     <lastmod>2018-03-04T16:01:23+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-tw"
+                href="https://www.zjyclub.top/zh-tw/tag/notes/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.zjyclub.top/en/tag/notes/"
+                />
+  </url><url>
     <loc>https://www.zjyclub.top/en/2018/03/04/shortcodes-preview/</loc>
     <lastmod>2018-03-05T16:01:23+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.zjyclub.top/en/2018/03/03/note-1/</loc>
     <lastmod>2018-03-03T16:01:23+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-tw"
+                href="https://www.zjyclub.top/zh-tw/2018/03/03/%E7%AD%86%E8%A8%98-1/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.zjyclub.top/en/2018/03/03/note-1/"
+                />
   </url>
-  
 </urlset>

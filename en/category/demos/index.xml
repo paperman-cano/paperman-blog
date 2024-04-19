@@ -4,7 +4,7 @@
     <title>Demos on PaperMan</title>
     <link>https://www.zjyclub.top/en/category/demos/</link>
     <description>Recent content in Demos on PaperMan</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo 0.125.1</generator>
     <language>en</language>
     <lastBuildDate>Mon, 05 Mar 2018 16:01:23 +0800</lastBuildDate>
     <atom:link href="https://www.zjyclub.top/en/category/demos/index.xml" rel="self" type="application/rss+xml" />
@@ -20,7 +20,7 @@
       <link>https://www.zjyclub.top/en/2018/03/04/shortcodes-preview/</link>
       <pubDate>Sun, 04 Mar 2018 16:01:23 +0800</pubDate>
       <guid>https://www.zjyclub.top/en/2018/03/04/shortcodes-preview/</guid>
-      <description>Twiiter Google Map Figure Globe Highlight for Shells # test echo test # just a test echo hello world </description>
+      <description>Twiiter Google Map Figure Globe&#xA;Highlight for Shells test echo test&#xA;just a test echo hello world</description>
     </item>
   </channel>
 </rss>
