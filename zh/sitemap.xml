@@ -1,20 +1,20 @@
-<?xml-stylesheet type="text/xsl" href="http://localhost:1313/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://www.zjyclub.top/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://localhost:1313/zh/categories/</loc>
+    <loc>https://www.zjyclub.top/zh/categories/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/zh/</loc>
+    <loc>https://www.zjyclub.top/zh/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/zh/tags/</loc>
+    <loc>https://www.zjyclub.top/zh/tags/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
