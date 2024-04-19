@@ -24,9 +24,9 @@ categories: ["Demos"]
 
 ## Highlight for Shells
 
-{{< shhighlight bash "hl_lines=2 4" >}}
+
 # test
 echo test
 # just a test
 echo hello world
-{{< /shhighlight >}}
+
